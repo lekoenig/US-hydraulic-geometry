@@ -1,4 +1,4 @@
-#### US-hydraulic-geometry
+### US-hydraulic-geometry
 
 The objective of this script is to conduct region-specific hydraulic geometry analyses by HUC2 watersheds.
 
